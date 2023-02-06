@@ -19,9 +19,13 @@ namespace TestApp2
             }
             else 
             { 
-            number = int.Parse(args[0]);
+                number = int.Parse(args[0]);
             }
-            Console.WriteLine(number * 2);
+           
+            for( int i = 1;i < number; i++ ) 
+            {
+                Console.WriteLine("{0} × {1} = {2}", i, number, i * number);
+            }
             Console.ReadKey();
         }
     }
