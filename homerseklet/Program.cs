@@ -12,15 +12,15 @@ namespace homerseklet
         {
             Console.Write("Adj meg egy hőmérséklet értékét:");
             int n = int.Parse(Console.ReadLine());
-            Console.WriteLine("Válassz opciót: (1) C∘ --> K∘ (2) K∘ --> C∘ : ");
+            Console.WriteLine("Válassz opciót: (1) C∘ --> F∘ (2) F∘ --> C∘ : ");
             byte c = byte.Parse(Console.ReadLine());
             Console.WriteLine();
             switch (c) 
             {
                 case 1:
-                    Console.WriteLine("{0} C∘ = {1} K∘", n, n + 273);break;
-               case 2: 
-                    Console.WriteLine("{0} K∘ = {1} C∘", n, n + 273); break;
+                    Console.WriteLine("{0} F∘ = {1} C∘", n, (n -32) * 5 / 9);break;
+                case 2: 
+                    Console.WriteLine("{0} C∘ = {1} F∘", n, (n * 9 / 5) + 32); break;
             }
             Console.ReadKey();
 
