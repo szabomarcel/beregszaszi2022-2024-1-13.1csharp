@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{008840BA-C688-48CA-935A-4619FD31F26C}</ProjectGuid>
+    <ProjectGuid>{FF05248D-4CA2-4C68-B13A-191AD9B1947E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>szamok_bekeres</RootNamespace>
-    <AssemblyName>szamok_bekeres</AssemblyName>
+    <RootNamespace>szamokbekerese</RootNamespace>
+    <AssemblyName>szamokbekerese</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
