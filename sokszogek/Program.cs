@@ -15,7 +15,7 @@ namespace sokszogek
                 otszog,
                 hatszog;
 
-
+            Console.WriteLine("");
         }
     }
 }
