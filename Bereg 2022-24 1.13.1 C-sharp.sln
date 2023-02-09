@@ -19,9 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp szamologep", "TestA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp_ko_papir_ollo", "TestApp_ko_papir_ollo\TestApp_ko_papir_ollo.csproj", "{729AC924-8184-468E-841C-A3ECECD3DAAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "szamok_bekeres", "szamok_bekeres\szamok_bekeres.csproj", "{008840BA-C688-48CA-935A-4619FD31F26C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homerseklet", "homerseklet\homerseklet.csproj", "{C0F3EBA6-618D-4EBB-83E0-9F159C032D7A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atvalta_homerseklet", "homerseklet\atvalta_homerseklet.csproj", "{C0F3EBA6-618D-4EBB-83E0-9F159C032D7A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "viz_goz_jeg", "viz_goz_jeg\viz_goz_jeg.csproj", "{45344F68-B2A1-4468-987B-F50813BABDE4}"
 EndProject
@@ -37,9 +35,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "szamolas", "szamolas\szamol
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "respiracio_kvonciens_kiszamitas", "respiracio_kvonciens_kiszamitas\respiracio_kvonciens_kiszamitas.csproj", "{9482B08B-D812-4600-ACE4-EC358CBAA504}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csomagolo", "Csomagolo\Csomagolo.csproj", "{7993160E-F3E9-4446-9ECC-B3F0855945C2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csomagolo _ceg_programja", "Csomagolo\csomagolo _ceg_programja.csproj", "{7993160E-F3E9-4446-9ECC-B3F0855945C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "burkolo", "burkolo\burkolo.csproj", "{CB1DD5E2-FAB3-43BE-80AE-6A61E1F295AB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csempezes", "burkolo\csempezes.csproj", "{CB1DD5E2-FAB3-43BE-80AE-6A61E1F295AB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "masodfokuegyenlet", "masodfokuegyenlet\masodfokuegyenlet.csproj", "{E8B2DEF7-4F6B-4AE7-96E2-623202B08E89}"
 EndProject
@@ -93,10 +91,6 @@ Global
 		{729AC924-8184-468E-841C-A3ECECD3DAAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{729AC924-8184-468E-841C-A3ECECD3DAAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{729AC924-8184-468E-841C-A3ECECD3DAAA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{008840BA-C688-48CA-935A-4619FD31F26C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{008840BA-C688-48CA-935A-4619FD31F26C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{008840BA-C688-48CA-935A-4619FD31F26C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{008840BA-C688-48CA-935A-4619FD31F26C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C0F3EBA6-618D-4EBB-83E0-9F159C032D7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C0F3EBA6-618D-4EBB-83E0-9F159C032D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0F3EBA6-618D-4EBB-83E0-9F159C032D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU

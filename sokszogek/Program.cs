@@ -10,12 +10,8 @@ namespace sokszogek
     {
         static void Main(string[] args)
         {
-            int haromszog,
-                negyszog,
-                otszog,
-                hatszog;
 
-            Console.WriteLine("");
+
         }
     }
 }

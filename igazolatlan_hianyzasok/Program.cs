@@ -26,11 +26,11 @@ namespace igazolatlan_hianyzasok
                 int b = 15;
                 int c = 20;
                 int d = 30;
-                if(hianyzas >= b)
+                if(hianyzas >= a)
                 {
                     Console.WriteLine("Az első kategória\r\nfigyelmeztetést");
                 }
-                else if (hianyzas >= c)
+                else if (hianyzas >= b)
                 {
                     Console.WriteLine("A második osztályfőnöki intőt");
                 }
