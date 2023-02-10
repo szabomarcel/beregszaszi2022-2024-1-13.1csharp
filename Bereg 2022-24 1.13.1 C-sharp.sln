@@ -33,8 +33,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mezogazdasagi joslas", "mez
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "szamolas", "szamolas\szamolas.csproj", "{8919BEC8-E1A1-4E77-8796-2C728E12667B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "respiracio_kvonciens_kiszamitas", "respiracio_kvonciens_kiszamitas\respiracio_kvonciens_kiszamitas.csproj", "{9482B08B-D812-4600-ACE4-EC358CBAA504}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csomagolo _ceg_programja", "Csomagolo\csomagolo _ceg_programja.csproj", "{7993160E-F3E9-4446-9ECC-B3F0855945C2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csempezes", "burkolo\csempezes.csproj", "{CB1DD5E2-FAB3-43BE-80AE-6A61E1F295AB}"
@@ -46,8 +44,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "penzermek", "penzermek\penzermek.csproj", "{173B1885-5A36-4F72-9EEC-A4D14117E5F8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "percek_es_orak", "percek_es_orak\percek_es_orak.csproj", "{D6B47071-BF3E-4623-ABDD-1B5A1EBF953C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sokszogek", "sokszogek\sokszogek.csproj", "{A0C1DD0D-40AB-45C2-B920-C90129EC21A4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "igazolatlan_hianyzasok", "igazolatlan_hianyzasok\igazolatlan_hianyzasok.csproj", "{71E7103C-BEA7-4C99-833F-D3B4117C564C}"
 EndProject
@@ -119,10 +115,6 @@ Global
 		{8919BEC8-E1A1-4E77-8796-2C728E12667B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8919BEC8-E1A1-4E77-8796-2C728E12667B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8919BEC8-E1A1-4E77-8796-2C728E12667B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9482B08B-D812-4600-ACE4-EC358CBAA504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9482B08B-D812-4600-ACE4-EC358CBAA504}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9482B08B-D812-4600-ACE4-EC358CBAA504}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9482B08B-D812-4600-ACE4-EC358CBAA504}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7993160E-F3E9-4446-9ECC-B3F0855945C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7993160E-F3E9-4446-9ECC-B3F0855945C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7993160E-F3E9-4446-9ECC-B3F0855945C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -147,10 +139,6 @@ Global
 		{D6B47071-BF3E-4623-ABDD-1B5A1EBF953C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6B47071-BF3E-4623-ABDD-1B5A1EBF953C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6B47071-BF3E-4623-ABDD-1B5A1EBF953C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A0C1DD0D-40AB-45C2-B920-C90129EC21A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A0C1DD0D-40AB-45C2-B920-C90129EC21A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A0C1DD0D-40AB-45C2-B920-C90129EC21A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A0C1DD0D-40AB-45C2-B920-C90129EC21A4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{71E7103C-BEA7-4C99-833F-D3B4117C564C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{71E7103C-BEA7-4C99-833F-D3B4117C564C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71E7103C-BEA7-4C99-833F-D3B4117C564C}.Release|Any CPU.ActiveCfg = Release|Any CPU
