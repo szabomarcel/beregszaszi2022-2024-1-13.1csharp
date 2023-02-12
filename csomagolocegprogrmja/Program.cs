@@ -15,9 +15,9 @@ namespace csomagolocegprogrmja
             Console.WriteLine();         
             Console.WriteLine("Dinnyek szama!");
             int N = int.Parse(Console.ReadLine());
-            double szalag = ((2 * d * Math.PI)+60) * N;
+            double szalag = ((2 * d * Math.PI) + 60) * N;
             Console.WriteLine();
-            Console.WriteLine("A szükséges szalag {0:0.00}");
+            Console.WriteLine("A szükséges szalag {0:0.00}", szalag);
             Console.ReadLine();
         }
     }
