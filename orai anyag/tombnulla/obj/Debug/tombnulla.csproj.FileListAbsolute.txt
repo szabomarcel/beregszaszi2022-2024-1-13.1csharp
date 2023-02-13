@@ -1,0 +1,8 @@
+C:\Users\szabo.marcell\source\repos\beregszaszi2022-2024-1-13.1csharp\beregszaszi2022-2024-1-13.1csharp\tombnulla\bin\Debug\tombnulla.exe.config
+C:\Users\szabo.marcell\source\repos\beregszaszi2022-2024-1-13.1csharp\beregszaszi2022-2024-1-13.1csharp\tombnulla\bin\Debug\tombnulla.exe
+C:\Users\szabo.marcell\source\repos\beregszaszi2022-2024-1-13.1csharp\beregszaszi2022-2024-1-13.1csharp\tombnulla\bin\Debug\tombnulla.pdb
+C:\Users\szabo.marcell\source\repos\beregszaszi2022-2024-1-13.1csharp\beregszaszi2022-2024-1-13.1csharp\tombnulla\obj\Debug\tombnulla.csproj.AssemblyReference.cache
+C:\Users\szabo.marcell\source\repos\beregszaszi2022-2024-1-13.1csharp\beregszaszi2022-2024-1-13.1csharp\tombnulla\obj\Debug\tombnulla.csproj.SuggestedBindingRedirects.cache
+C:\Users\szabo.marcell\source\repos\beregszaszi2022-2024-1-13.1csharp\beregszaszi2022-2024-1-13.1csharp\tombnulla\obj\Debug\tombnulla.csproj.CoreCompileInputs.cache
+C:\Users\szabo.marcell\source\repos\beregszaszi2022-2024-1-13.1csharp\beregszaszi2022-2024-1-13.1csharp\tombnulla\obj\Debug\tombnulla.exe
+C:\Users\szabo.marcell\source\repos\beregszaszi2022-2024-1-13.1csharp\beregszaszi2022-2024-1-13.1csharp\tombnulla\obj\Debug\tombnulla.pdb
