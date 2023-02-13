@@ -1,0 +1,8 @@
+C:\Users\szabo.marcell\source\repos\string demo\stringmoduls\bin\Debug\stringmoduls.exe.config
+C:\Users\szabo.marcell\source\repos\string demo\stringmoduls\bin\Debug\stringmoduls.exe
+C:\Users\szabo.marcell\source\repos\string demo\stringmoduls\bin\Debug\stringmoduls.pdb
+C:\Users\szabo.marcell\source\repos\string demo\stringmoduls\obj\Debug\stringmoduls.csproj.AssemblyReference.cache
+C:\Users\szabo.marcell\source\repos\string demo\stringmoduls\obj\Debug\stringmoduls.csproj.SuggestedBindingRedirects.cache
+C:\Users\szabo.marcell\source\repos\string demo\stringmoduls\obj\Debug\stringmoduls.csproj.CoreCompileInputs.cache
+C:\Users\szabo.marcell\source\repos\string demo\stringmoduls\obj\Debug\stringmoduls.exe
+C:\Users\szabo.marcell\source\repos\string demo\stringmoduls\obj\Debug\stringmoduls.pdb
