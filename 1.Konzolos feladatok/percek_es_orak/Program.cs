@@ -15,7 +15,7 @@ namespace percek_es_orak
                 mperc;
 
             // Első időpont beolvasása
-            Console.WriteLine("Adja meg az első óráT!");
+            Console.WriteLine("Adja meg az első órát!");
             ora = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Adja meg az első percet!");
             perc = Convert.ToInt32(Console.ReadLine());
