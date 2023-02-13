@@ -25,17 +25,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "viz_goz_jeg", "viz_goz_jeg\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testömeg_index", "testömeg_index\testömeg_index.csproj", "{1C339F0D-D1E8-4AB4-B885-E8AE4F5DDFAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "koordinata", "koordinata\koordinata.csproj", "{16036B61-8EF3-4ED3-9F64-03E99A583AEC}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ponthatarok", "ponthatarok\ponthatarok.csproj", "{A771E00B-9946-4F87-B2FC-770DD01A621A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mezogazdasagi joslas", "mezogazdasagi joslas\mezogazdasagi joslas.csproj", "{7D179FDC-E2EB-4A24-B591-3F284140E05F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "szamolas", "szamolas\szamolas.csproj", "{8919BEC8-E1A1-4E77-8796-2C728E12667B}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csomagolo _ceg_programja", "Csomagolo\csomagolo _ceg_programja.csproj", "{7993160E-F3E9-4446-9ECC-B3F0855945C2}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csempezes", "burkolo\csempezes.csproj", "{CB1DD5E2-FAB3-43BE-80AE-6A61E1F295AB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "masodfokuegyenlet", "masodfokuegyenlet\masodfokuegyenlet.csproj", "{E8B2DEF7-4F6B-4AE7-96E2-623202B08E89}"
 EndProject
@@ -99,10 +93,6 @@ Global
 		{1C339F0D-D1E8-4AB4-B885-E8AE4F5DDFAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C339F0D-D1E8-4AB4-B885-E8AE4F5DDFAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C339F0D-D1E8-4AB4-B885-E8AE4F5DDFAD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{16036B61-8EF3-4ED3-9F64-03E99A583AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{16036B61-8EF3-4ED3-9F64-03E99A583AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{16036B61-8EF3-4ED3-9F64-03E99A583AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{16036B61-8EF3-4ED3-9F64-03E99A583AEC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A771E00B-9946-4F87-B2FC-770DD01A621A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A771E00B-9946-4F87-B2FC-770DD01A621A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A771E00B-9946-4F87-B2FC-770DD01A621A}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -115,14 +105,6 @@ Global
 		{8919BEC8-E1A1-4E77-8796-2C728E12667B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8919BEC8-E1A1-4E77-8796-2C728E12667B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8919BEC8-E1A1-4E77-8796-2C728E12667B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7993160E-F3E9-4446-9ECC-B3F0855945C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7993160E-F3E9-4446-9ECC-B3F0855945C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7993160E-F3E9-4446-9ECC-B3F0855945C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7993160E-F3E9-4446-9ECC-B3F0855945C2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CB1DD5E2-FAB3-43BE-80AE-6A61E1F295AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CB1DD5E2-FAB3-43BE-80AE-6A61E1F295AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CB1DD5E2-FAB3-43BE-80AE-6A61E1F295AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CB1DD5E2-FAB3-43BE-80AE-6A61E1F295AB}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E8B2DEF7-4F6B-4AE7-96E2-623202B08E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E8B2DEF7-4F6B-4AE7-96E2-623202B08E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8B2DEF7-4F6B-4AE7-96E2-623202B08E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
