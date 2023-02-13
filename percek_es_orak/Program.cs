@@ -10,18 +10,33 @@ namespace percek_es_orak
     {
         static void Main(string[] args)
         {
+            int ora,
+                perc,
+                mperc;
 
-            Console.WriteLine("Add meg a másodpercet:");
-            string mp = Console.ReadLine();
-            int masodperc, perc, ora, nap;
-            masodperc = int.Parse(mp);
-            Console.WriteLine("Ennyi másodperc: {0}", masodperc);
-            perc = masodperc / 60;
-            Console.WriteLine("Ennyi perc: {0}", perc);
-            ora = masodperc / 3600;
-            Console.WriteLine("Ennyi óra: {0}", ora);
-            nap = masodperc / 86400;
-            Console.WriteLine("Ennyi nap: {0}", nap);
+            // Első időpont beolvasása
+            Console.WriteLine("Adja meg az első óráT!");
+            ora = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Adja meg az első percet!");
+            perc = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Adja meg az első másodpercet!");
+            mperc = Convert.ToInt32(Console.ReadLine());
+            
+            // Második időpont beolvasása
+            Console.WriteLine("Adja meg az második órát!");
+            DateTime elso = new DateTime(2000, 02, 02, ora, perc, mperc);
+            ora = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Adja meg az második percet!");
+            perc = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Adja meg az második másodpercet!");
+            mperc = Convert.ToInt32(Console.ReadLine());
+            DateTime masik = new DateTime(2000, 02, 02, ora, perc, mperc);
+            
+            // A két időpont külömbsége
+            TimeSpan k = elso - masik;
+            
+            // Kiíratás
+            Console.WriteLine(k.ToString());
             Console.ReadKey();
         }
     }
