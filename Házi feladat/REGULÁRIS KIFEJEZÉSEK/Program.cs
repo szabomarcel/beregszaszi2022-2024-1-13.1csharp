@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,15 +12,15 @@ namespace REGULÁRIS_KIFEJEZÉSEK
         static void Main(string[] args)
         {
             Regex pattern = new Regex("^[1-9][0-9]*");
-            string s1 = "012345";
-            string s2 = "112345";
-            string s3 = "2";
+            string s1 = "012345"; // 1.szöveg kiíratás
+            string s2 = "112345";// 2.szöveg kiíratás
+            string s3 = "2";// 3.szöveg kiíratás
             Console.WriteLine("{0} : {1}", s1, (pattern.IsMatch(s1) ?
-            "természetes szám" : "nem természetes szám"));
+            "természetes szám" : "nem természetes szám"));// 1.szöveg kiíratás
             Console.WriteLine("{0} : {1}", s2, (pattern.IsMatch(s2) ?
-            "természetes szám" : "nem természetes szám"));
+            "természetes szám" : "nem természetes szám"));// 2.szöveg kiíratás
             Console.WriteLine("{0} : {1}", s3, (pattern.IsMatch(s3) ?
-            "természetes szám" : "nem természetes szám"));
+            "természetes szám" : "nem természetes szám"));// 3.szöveg kiíratás
             Console.ReadKey();
         }
     }

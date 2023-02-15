@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,7 +11,7 @@ namespace Metódusok_2
         static void Main(string[] args)
         {
             // alap
-            string s = "nagy hosszú hosszú szöveg";
+            string s = "nagy hosszú hosszú szöveg"; // szöveg kiíratás
             char[] chr = new char[] {'y', 'z', 'o', 's', 'g'};
             Console.WriteLine(s.IndexOf('r')); // 2
             Console.WriteLine(s.IndexOfAny(chs)); // 3
