@@ -20,13 +20,13 @@ namespace Metódusok_2
             Console.WriteLine(s.Contains("long"));
 
             // Módositás
-            Console.WriteLine(s.Replace('s', 'l')); // lmallltring
-            Console.WriteLine(s.Trim(chs)); // mallstrin
-            Console.WriteLine(s.Insert(0, "one")); // onesmallstring
-            Console.WriteLine(s.Remove(0, 2)); // allstring
-            Console.WriteLine(s.Substring(0, 3)); // sma
-            Console.WriteLine(s.ToUpper()); // SMALLSTRING
-            Console.WriteLine(s.ToLower()); // smallstring
+            Console.WriteLine(s.Replace('s', 'l')); // Cserélt szöveg
+            Console.WriteLine(s.Trim(chs)); // Vágásos szöveg
+            Console.WriteLine(s.Insert(0, "one")); // Beszúrás szöveg
+            Console.WriteLine(s.Remove(0, 2)); // Eltávolitott szöveg
+            Console.WriteLine(s.Substring(0, 3)); // Alkarakterlánc szöveg
+            Console.WriteLine(s.ToUpper()); // Felemelő
+            Console.WriteLine(s.ToLower()); // Leemelő
 
 
             Console.ReadKey();

@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,10 +10,10 @@ namespace BUBORÉKRENDEZÉS
     {
         static void Main(string[] args)
         {
-            // első változatt
-            for (int i = 0, i < sor.Length - 1; ++i)
+            // első változatt for ciklussal
+            for (int i = 0, i < sor.Length - 1; ++i) // eldöntendő ciklus az i-re
             {
-                for(int j = sor.Length - 1; > i; --j)
+                for(int j = sor.Length - 1; > i; --j) // eldöntendő ciklus az i-re
                 {
                     int tmp = sor[j];
                     sor[j] = sor[j - 1];
@@ -22,8 +21,8 @@ namespace BUBORÉKRENDEZÉS
                 }
             }
 
-            // második változatt
-            for (int i = 1; i < sor.Length; ++i)
+            // második változatt for ciklussal
+            for (int i = 1; i < sor.Length; ++i) //elágazás
             {
                 int y = sor[i];
                 int j = i - 1;
@@ -37,43 +36,3 @@ namespace BUBORÉKRENDEZÉS
         }
     }
 }
-=======
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace BUBORÉKRENDEZÉS
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            // első változatt
-            for (int i = 0, i < sor.Length - 1; ++i)
-            {
-                for(int j = sor.Length - 1; > i; --j)
-                {
-                    int tmp = sor[j];
-                    sor[j] = sor[j - 1];
-                    sor[j - 1] = tmp;
-                }
-            }
-
-            // második változatt
-            for (int i = 1; i < sor.Length; ++i)
-            {
-                int y = sor[i];
-                int j = i - 1;
-                while(j>-1 && y < sor[j])
-                {
-                    sor[j + 1] = sor[j];
-                    --j;
-                }
-                sor[j + 1] = y
-            }
-        }
-    }
-}
-
