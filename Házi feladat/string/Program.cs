@@ -1,21 +1,21 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace @string
+namespace stringek
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            StringBuilder sb = new StringBuilder(50);
-            for (char ch = 'a'; ch <= 'z'; ++ch)
+            StringBuilder sb = new StringBuilder(50); //szöveg építő
+            for (char ch = 'a'; ch <= 'z'; ++ch) // Eldöndendö ciklus a ch-ra
             {
-                sb.Append(ch);
+                sb.Append(ch); // Melléklet a ch-ra
             }
-            Console.WriteLine(sb);
+            Console.WriteLine(sb); // Sb kiíratás
             Console.ReadKey();
         }
     }

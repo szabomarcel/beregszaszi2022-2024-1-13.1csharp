@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0015BBA2-9FF4-4D7A-900E-30F60FBEFA3A}</ProjectGuid>
+    <ProjectGuid>{6F634889-B3AB-4187-84DE-E8DDE452B2CF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>BUBORÉKRENDEZÉS</RootNamespace>
-    <AssemblyName>BUBORÉKRENDEZÉS</AssemblyName>
+    <RootNamespace>REGULÁRIS_KIFEJEZÉSEK_2</RootNamespace>
+    <AssemblyName>REGULÁRIS_KIFEJEZÉSEK_2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

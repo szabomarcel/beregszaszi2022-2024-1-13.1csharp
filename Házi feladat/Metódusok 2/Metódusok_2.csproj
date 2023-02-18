@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0015BBA2-9FF4-4D7A-900E-30F60FBEFA3A}</ProjectGuid>
+    <ProjectGuid>{55B7C4C4-ABD1-4FF9-A413-E5F92249970D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>BUBORÉKRENDEZÉS</RootNamespace>
-    <AssemblyName>BUBORÉKRENDEZÉS</AssemblyName>
+    <RootNamespace>Metódusok_2</RootNamespace>
+    <AssemblyName>Metódusok_2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
