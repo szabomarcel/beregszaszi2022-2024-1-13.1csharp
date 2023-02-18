@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,22 +10,22 @@ namespace Metódusok
     {
         static void Main(string[] args)
         {
-            string a = "egyik";
-            string b = "másik";
+            string a = "egyik"; // egyenlő az egyik-kel
+            string b = "másik"; // egyenlő a másik-kal
             int x = String.Compare(a, b);
-            if (x == 0) // eldöntendő: ha x == a 0-val
+            if (x == 0) // végigjárás a for-ciklussal, olvasás és írásra eldöntendő: ha x == a 0-val
             {
-                Console.WriteLine("A két string egyenlő");
+                Console.WriteLine("A két string egyenlő"); // Kiíratás a számra
             }
-            else if (x < 0) // eldöntendő: ha x < mint a 0
+            else if (x < 0) // végigjárás a for-ciklussal, olvasás és írásra eldöntendő: ha x < mint a 0
             {
-                Console.WriteLine("A 'a' a kisebb");
+                Console.WriteLine("A 'a' a kisebb");// Kiíratás ha [a] kisebb 
             }
-            else // eldöntendő: ha eltér
+            else //végigjárás a for-ciklussal, olvasás és írásra  eldöntendő: ha eltér
             {
-                Console.WriteLine("A 'b' a kisebb");
+                Console.WriteLine("A 'b' a kisebb");// Kiíratás ha [b] számra
             }
-            Console.ReadKey();  
+            Console.ReadKey();
         }
     }
 }

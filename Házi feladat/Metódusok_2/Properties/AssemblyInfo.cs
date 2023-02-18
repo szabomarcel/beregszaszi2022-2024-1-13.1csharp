@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("REGULÁRIS KIFEJEZÉSEK")]
+[assembly: AssemblyTitle("Metódusok_2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("REGULÁRIS KIFEJEZÉSEK")]
+[assembly: AssemblyProduct("Metódusok_2")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("98f7f2dc-d904-4a40-a699-1411854353d5")]
+[assembly: Guid("55b7c4c4-abd1-4ff9-a413-e5f92249970d")]
 
 // Version information for an assembly consists of the following four values:
 //
